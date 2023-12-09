@@ -1,0 +1,22 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "算刷题",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/teemosauce/algorithm.git"
+  },
+  "author": "teemosauce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teemosauce/algorithm/issues"
+  },
+  "homepage": "https://github.com/teemosauce/algorithm#readme"
+}
